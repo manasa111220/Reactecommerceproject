@@ -1,7 +1,7 @@
 const Register = () => {
   return (
     <div className="register">
-      <h1 className="text-3xl font-bold text-center mt-10">Register Page</h1>
+      <h1 className="text-3xl font-bold text-center mt-10">Register  Page</h1>
       <form className="max-w-md mt-8">
         <input
           type="text"
